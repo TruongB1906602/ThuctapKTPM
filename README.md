@@ -1,6 +1,6 @@
 # ThuctapKTPM
 1. frontend:
-   npm install/n
+   npm install \n
    npm start
 2. backend:
    npm install
